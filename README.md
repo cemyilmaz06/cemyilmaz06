@@ -1,4 +1,4 @@
-                                            <h1>Hi there I'm Cem.I'm a Frontend Developer👋</h1>
+                                           
 
 <!--
 **cemyilmaz06/cemyilmaz06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+-->                               <h1>Hi there I'm Cem.I'm a Frontend Developer👋</h1>
 <h3>When I code, I rely on</h3> 
 <p>
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
